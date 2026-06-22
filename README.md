@@ -54,9 +54,9 @@ Développeur Full Stack basé à **Casablanca, Maroc**. Je conçois des applicat
 | **[SIGMA X.0](https://github.com/badr-chigar/sigma-x0)** | ERP de gestion de production industrielle | React · Node/Express · PostgreSQL | [▶︎ Démo](https://badr-chigar.vercel.app/sigma-x0.html) |
 | **[Provid](https://github.com/badr-chigar/provid)** | E-commerce nutrition (client + admin) | React · Spring Boot · JPA | [▶︎ Démo](https://badr-chigar.vercel.app/provid-user.html) |
 | **[VOLTA](https://github.com/badr-chigar/volta)** | Supervision temps réel d'une flotte de véhicules électriques | React · WebSocket · Leaflet | [▶︎ Démo](https://badr-chigar.vercel.app/volta.html) |
-| **[Attijari e-Sign](https://github.com/badr-chigar/attijari-esign)** | Signature électronique avec OTP (microservices) | Spring Boot · React | [▶︎ Démo](https://badr-chigar.vercel.app/) |
+| **[Attijari e-Sign](https://github.com/badr-chigar/attijari-esign)** | Signature électronique avec OTP (microservices) | Spring Boot · React | [▶︎ Démo](https://badr-chigar.vercel.app/attijari-signature.html) |
 | **[MediCare](https://github.com/badr-chigar/medicare)** | ERP de gestion hospitalière | ASP.NET Core · EF Core · React | [▶︎ Démo](https://badr-chigar.vercel.app/hopital-dotnet.html) |
-| **[ONEE Technicien](https://github.com/badr-chigar/onee-technicien)** | App mobile de gestion d'interventions terrain | Flutter · Dart | [▶︎ Démo](https://badr-chigar.vercel.app/) |
+| **[ONEE Technicien](https://github.com/badr-chigar/onee-technicien)** | App mobile de gestion d'interventions terrain | Flutter · Dart | [▶︎ Démo](https://badr-chigar.vercel.app/onee-flutter.html) |
 
 👉 **Tous mes projets et démos : [badr-chigar.vercel.app](https://badr-chigar.vercel.app)**
 
