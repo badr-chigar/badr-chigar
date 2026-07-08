@@ -62,13 +62,4 @@ Développeur Full Stack basé à **Casablanca, Maroc**. Je conçois des applicat
 
 ---
 
-### 📊 GitHub en chiffres
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=badr-chigar&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badr-chigar&layout=compact&hide_border=true&theme=tokyonight" alt="langs" height="165"/>
-</p>
-
----
-
 <p align="center"><i>« L'informatique, avec soin. »</i></p>
